@@ -9,6 +9,7 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "devicons": "^1.8.0",
+    "fetch": "^1.1.0",
     "jquery": "^3.6.0",
     "simple-line-icons": "^2.4.1"
   },
